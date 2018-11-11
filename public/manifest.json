@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+
+  "name": "Chrome Extension",
+  "description": "An extension created with Chrome Extention Starter",
+  "version": "0.0.1",
+
+  "browser_action": {
+    "default_popup": "index.html",
+    "default_title": "Open the popup"
+  },
+  "icons": {
+    "16": "assets/images/logos/logo-small.png",
+    "48": "assets/images/logos/logo-medium.png",
+    "128": "assets/images/logos/logo-big.png"
+  },
+  "permissions": [
+  ]
+}
